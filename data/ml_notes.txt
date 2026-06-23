@@ -1,0 +1,11 @@
+Machine learning is a field that enables computers to learn from data.
+
+Gradient descent is an optimization algorithm used to minimize loss functions.
+
+Overfitting happens when a model performs well on training data but poorly on unseen data.
+
+Bias is error due to overly simple assumptions.
+
+Variance is error due to sensitivity to training data.
+
+A loss function measures how wrong predictions are.
